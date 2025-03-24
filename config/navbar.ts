@@ -66,12 +66,12 @@ const zhNavConfig: NavConfig = {
       href: "/apptype/new",
       path: "/apptype/",
     },
-    {
-      title: "搜索",
-      href: "https://link.indiehackers.site/saas101",
-      path: "https://link.indiehackers.site/saas101",
-      external: true,
-    },
+    // {
+    //   title: "搜索",
+    //   href: "https://link.indiehackers.site/saas101",
+    //   path: "https://link.indiehackers.site/saas101",
+    //   external: true,
+    // },
     // {
     //   title: "教程",
     //   href: "/guides",
@@ -97,6 +97,12 @@ const zhNavConfig: NavConfig = {
       title: "Mkdirs",
       href: "https://mkdirs.com",
       path: "https://mkdirs.com",
+      external: true,
+    },
+    {
+      title: "GitHub",
+      href: "https://github.com/javayhu/free-directory-boilerplate",
+      path: "https://github.com/javayhu/free-directory-boilerplate",
       external: true,
     },
   ],
